@@ -1,0 +1,14 @@
+{
+  "name": "county-zip-convert",
+  "version": "1.0.0",
+  "description": "Convert Counties To Zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.9.7"
+  }
+}
